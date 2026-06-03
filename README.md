@@ -1,9 +1,9 @@
-# Python Journey 🇯🇵
+# Python Journey
 
-Building Python from zero — every single day.
+Building Python from zero — one project every single day.
 
 ## Goal
-Land a job in Japan as an MLOps Engineer.
+Become an MLOps Engineer.
 
 ## Progress
 | Day | Project | Concepts |
