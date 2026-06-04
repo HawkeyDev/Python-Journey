@@ -6,9 +6,11 @@ Building Python from zero — one project every single day.
 Become an MLOps Engineer.
 
 ## Progress
+## Progress
 | Day | Project | Concepts |
 |-----|---------|----------|
 | 01  | Number Guessing Game | loops, if/elif, random, break |
+| 02  | Calculator | if/elif chains, ** operator, None handling |
 
 ## Rules
 - Build something every single day
