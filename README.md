@@ -11,6 +11,7 @@ Become an MLOps Engineer.
 |-----|---------|----------|
 | 01  | Number Guessing Game | loops, if/elif, random, break |
 | 02  | Calculator | if/elif chains, ** operator, None handling |
+| 03  | Contact Book | JSON, dictionaries, while loop, file handling |
 
 ## Rules
 - Build something every single day
