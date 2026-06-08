@@ -1,15 +1,18 @@
-# Day 05 -BMI Calculator
+# Day 05 - BMI Calculator
 
-A terminal BMI calculator to assess an individual as underweight,overweight , obese .
+A terminal BMI calculator that tells you your health category.
 
 ## What it does
-- Body mass index calculator for evaluating whether an individual as underweight, normal , overweight, obese
--bmi = weight/(height*height) formula
+- Takes weight and height as input
+- Calculates BMI using weight / (height * height)
+- Shows BMI value rounded to 2 decimal places
+- Tells if you are underweight, normal, overweight or obese
+
 ## What I learned
-- if/elif/else chains
-- bmi formula
-- float and rounding decimal values
-- Clean code — no repetition
+- float() for decimal inputs
+- BMI formula
+- round() to limit decimal places
+- if/elif logic order matters — lowest to highest
 
 ## Run it
 python python.py
