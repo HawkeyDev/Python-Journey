@@ -14,6 +14,7 @@ Become an MLOps Engineer.
 | 03  | Contact Book | JSON, dictionaries, while loop, file handling |
 | 04  | To-Do List App | JSON, status tracking, dict update |
 | 05  | BMI Calculator | BMI formula,float,rounding |
+| 06  | Temperature Converter | float, formulas, elif |
 ## Rules
 - Build something every single day
 - No copy paste — everything written by hand
