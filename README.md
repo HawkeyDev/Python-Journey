@@ -15,7 +15,7 @@ Become an MLOps Engineer.
 | 04  | To-Do List App | JSON, status tracking, dict update |
 | 05  | BMI Calculator | BMI formula,float,rounding |
 | 06  | Temperature Converter | float, formulas, elif |
-| 07  | rock,paper,scissors | while,random,if |
+| 07  | Rock,Paper,Scissors | while,random,if |
 ## Rules
 - Build something every single day
 - No copy paste — everything written by hand
