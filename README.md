@@ -17,6 +17,7 @@ Become an MLOps Engineer.
 | 06  | Temperature Converter | float, formulas, elif |
 | 07  | Rock,Paper,Scissors | while,random,if |
 | 08  | Word Counter | text (split ,count) |
+| 09  | Password Generator | string module, random.choice, loop |
 ## Rules
 - Build something every single day
 - No copy paste — everything written by hand
