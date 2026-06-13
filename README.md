@@ -18,6 +18,8 @@ Become an MLOps Engineer.
 | 07  | Rock,Paper,Scissors | while,random,if |
 | 08  | Word Counter | text (split ,count) |
 | 09  | Password Generator | string module, random.choice, loop |
+| 10  | Simple Quiz App | dict, .items(), .lower(), score counter |
+| 11  | Countdown Timer | time module, time.sleep(), for/else |
 ## Rules
 - Build something every single day
 - No copy paste — everything written by hand
