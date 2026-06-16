@@ -21,6 +21,8 @@ Become an MLOps Engineer.
 | 10  | Simple Quiz App | dict, .items(), .lower(), score counter |
 | 11  | Countdown Timer | time module, time.sleep(), for/else |
 | 12  | Number to Words | dict,if/else,f-string|
+| 13  | Dice Roller | random.randint, while loop, break |
+| 14  | Palindrome Checker | string slicing [::-1], if/else |
 ## Rules
 - Build something every single day
 - No copy paste — everything written by hand
