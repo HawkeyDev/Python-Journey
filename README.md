@@ -1,6 +1,6 @@
 # Python Journey
 
-Building Python from zero — one project every single day.
+Building Python from zero — MLOPS Engg
 
 ## Goal
 Become an MLOps Engineer.
